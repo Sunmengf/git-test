@@ -12,3 +12,5 @@ this is master modify
 dev insert
 >>>>>>> dev
 both modify
+
+dev modify
