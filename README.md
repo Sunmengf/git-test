@@ -2,4 +2,6 @@
 
 第二次修改
 
-Git tracks changes
+Git tracks change
+
+Greating a new branch is quick
